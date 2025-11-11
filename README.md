@@ -20,6 +20,7 @@ Or use an HTML img tag to control size:
 ```html
 <img src="spatial_analysis_decision_tree.svg" alt="Decision tree" width="1200" />
 ```
+![Decision tree](spatial_analysis_decision_tree.svg)
 
 Notes
 - SVG is preferred for crisp diagrams and for embedding into GitHub Pages. If you need raster PNG at a specific pixel size, convert the SVG to PNG with a tool like `rsvg-convert`, `inkscape` or `CairoSVG`.
